@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+h2 {
+	font-family: Agbalumo;
+}
+
+span {
+	color: red;
+}
+
+.class {
+	color: brown;
+}
+
+#selectId {
+	color: violet;
+}
+
+div p {
+	color: aqua;
+}
+
+section > p {
+	color: teal;
+}
+
+.brotherNext + li article {
+	color: tomato;
+}
+
+.brothersNext ~ li p {
+	color: springgreen;
+}
+
+strong,
+p {
+	color: purple;
+}
